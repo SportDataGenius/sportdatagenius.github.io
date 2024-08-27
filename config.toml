@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
-title = "Tella"
-author = "username"
+baseURL = "https://sportdatagenius.github.io"
+title = "SportDataGenius"
+author = "Group"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
